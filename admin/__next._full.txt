@@ -1,0 +1,24 @@
+1:"$Sreact.fragment"
+2:I[70896,["/_next/static/chunks/40ba9o1dv_mlj.js"],"default"]
+3:I[79520,["/_next/static/chunks/40ba9o1dv_mlj.js"],""]
+4:I[39756,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+5:I[37457,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:I[22016,["/_next/static/chunks/40ba9o1dv_mlj.js","/_next/static/chunks/22i43cg4l4-dq.js"],""]
+7:I[47257,["/_next/static/chunks/3fntmmi971322.js"],"ClientPageRoot"]
+8:I[72906,["/_next/static/chunks/40ba9o1dv_mlj.js","/_next/static/chunks/24fezjt17jxgy.js","/_next/static/chunks/19_pltyv-ow4y.js"],"default"]
+b:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+c:"$Sreact.suspense"
+f:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+11:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+13:I[68027,["/_next/static/chunks/40ba9o1dv_mlj.js"],"default",1]
+:HL["/_next/static/chunks/2iwalk_00peww.css","style"]
+:HL["/_next/static/chunks/3gsw25c158v02.css","style"]
+e:X
+0:{"P":null,"c":["","admin",""],"q":"","i":false,"f":[[["",{"children":["admin",{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2iwalk_00peww.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/40ba9o1dv_mlj.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"children":[["$","a",null,{"href":"#main","className":"skip-link","children":"跳转到主要内容"}],["$","$L2",null,{}],["$","$L3",null,{"src":"https://events.vercount.one/js","strategy":"afterInteractive"}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"id":"main","className":"wrap not-found","children":[["$","span",null,{"className":"eyebrow","children":"404 / NOT FOUND"}],["$","h1",null,{"children":["这份档案",["$","br",null,{}],"还没有收录。"]}],["$","p",null,{"children":"页面可能已移动，或链接地址有误。"}],["$","$L6",null,{"href":"/","className":"button","children":"返回首页 ↗"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[["$","$L7",null,{"Component":"$8","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@9","$@a"]}}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3gsw25c158v02.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/24fezjt17jxgy.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/19_pltyv-ow4y.js","async":true,"nonce":"$undefined"}]],["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]]}],{},null,false,null]},null,false,"$e"]},null,false,null],["$","$1","h",{"children":[null,["$","$Lf",null,{"children":"$L10"}],["$","div",null,{"hidden":true,"children":["$","$L11",null,{"children":["$","$c",null,{"name":"Next.Metadata","children":"$L12"}]}]}],null]}],false]],"m":"$undefined","G":["$13",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2iwalk_00peww.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"q_-bmTC1BZGZfX8Hzowke"}
+e:C
+9:{}
+a:"$0:f:0:1:1:children:1:children:0:props:children:0:props:serverProvidedParams:params"
+10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+14:I[27201,["/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+d:null
+12:[["$","title","0",{"children":"个人主页 | 行业调研 · 思想随笔 · 立象尽意"}],["$","meta","1",{"name":"description","content":"关于机器人、技术与生活的个人记录：行业调研、思想随笔、立象尽意。阅读文章，浏览场景影像，探索三维交互作品。"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/icon?35f5c77d46c9a150","alt":"$undefined","type":"image/png","sizes":"64x64"}],["$","$L14","4",{}]]
